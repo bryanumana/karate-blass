@@ -1,0 +1,11 @@
+{
+  "id": "#number",
+  "nombre": "#string",
+  "precio": "#number",
+  "cantidad": "#number",
+  "peso": "#number",
+  "perecible": "#boolean",
+  "volumen": "#number",
+  "criticas": "#[] ^(criticasSchema)",
+  "etiquetas": "#[] #string"
+}

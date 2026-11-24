@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "nombre": "Oddie",
+    "tipo": "salvaje",
+    "genero": "hermafrodita",
+    "amoNombre": "Karen"
+  },
+  {
+    "id": 2,
+    "nombre": "Murphey",
+    "tipo": "cautivo",
+    "genero": "hembra",
+    "amoNombre": "Carla"
+  },
+  {
+    "id": 3,
+    "nombre": "Bob",
+    "tipo": "domestico",
+    "genero": "macho",
+    "amoNombre": "Evelyn"
+  },
+  {
+    "id": 4,
+    "nombre": "Molly",
+    "tipo": "domestico",
+    "genero": "hermafrodita",
+    "amoNombre": "Beatriz"
+  },
+  {
+    "id": 5,
+    "nombre": "Fido",
+    "tipo": "cautivo",
+    "genero": "hermafrodita",
+    "amoNombre": "Dora"
+  },
+  {
+    "id": 6,
+    "nombre": "Bandido",
+    "tipo": "cautivo",
+    "genero": "hermafrodita",
+    "amoNombre": "Alfonso"
+  },
+  {
+    "id": 7,
+    "nombre": "Estrella",
+    "tipo": "domestico",
+    "genero": "hermafrodita",
+    "amoNombre": "Mollie"
+  },
+  {
+    "id": 8,
+    "nombre": "Oreo",
+    "tipo": "domestico",
+    "genero": "hembra",
+    "amoNombre": "Christophe"
+  },
+  {
+    "id": 9,
+    "nombre": "Teddy",
+    "tipo": "cautivo",
+    "genero": "macho",
+    "amoNombre": "Tina"
+  },
+  {
+    "id": 10,
+    "nombre": "Leo",
+    "tipo": "cautivo",
+    "genero": "macho",
+    "amoNombre": "Laverne"
+  },
+  {
+    "id": 11,
+    "nombre": "Coni",
+    "tipo": "domestico",
+    "genero": "hembra",
+    "amoNombre": "Mohamed"
+  },
+  {
+    "id": 12,
+    "nombre": "Carlo",
+    "tipo": "domestico",
+    "genero": "hermafrodita",
+    "amoNombre": "Matilda"
+  },
+  {
+    "id": 13,
+    "nombre": "Morgana",
+    "tipo": "salvaje",
+    "genero": "hermafrodita",
+    "amoNombre": "Jose"
+  },
+  {
+    "id": 14,
+    "nombre": "Ramon",
+    "tipo": "salvaje",
+    "genero": "hermafrodita",
+    "amoNombre": "Carmen"
+  },
+  {
+    "id": 15,
+    "nombre": "Luna",
+    "tipo": "domestico",
+    "genero": "hembra",
+    "amoNombre": "Miles"
+  },
+  {
+    "id": 16,
+    "nombre": "Estela",
+    "tipo": "cautivo",
+    "genero": "hermafrodita",
+    "amoNombre": "Nicky"
+  },
+  {
+    "id": 17,
+    "nombre": "Bella",
+    "tipo": "salvaje",
+    "genero": "macho",
+    "amoNombre": "Stephanie"
+  },
+  {
+    "id": 18,
+    "nombre": "Monica",
+    "tipo": "domestico",
+    "genero": "hermafrodita",
+    "amoNombre": "Gerardo"
+  },
+  {
+    "id": 19,
+    "nombre": "Joey",
+    "tipo": "cautivo",
+    "genero": "hembra",
+    "amoNombre": "Marta"
+  },
+  {
+    "id": 20,
+    "nombre": "Coco",
+    "tipo": "domestico",
+    "genero": "hembra",
+    "amoNombre": "Alan"
+  },
+  {
+    "id": 21,
+    "nombre": "Lola",
+    "tipo": "cautivo",
+    "genero": "hermafrodita",
+    "amoNombre": "Hernan"
+  },
+  {
+    "id": 22,
+    "nombre": "Garfield",
+    "tipo": "cautivo",
+    "genero": "hembra",
+    "amoNombre": "Andres"
+  },
+  {
+    "id": 23,
+    "nombre": "Mia",
+    "tipo": "domestico",
+    "genero": "hembra",
+    "amoNombre": "Jodie"
+  },
+  {
+    "id": 24,
+    "nombre": "Armin",
+    "tipo": "domestico",
+    "genero": "hermafrodita",
+    "amoNombre": "Andrea"
+  },
+  {
+    "id": 25,
+    "nombre": "Lola",
+    "tipo": "domestico",
+    "genero": "hermafrodita",
+    "amoNombre": "Clementina"
+  },
+  {
+    "id": 26,
+    "nombre": "Sebastian",
+    "tipo": "domestico",
+    "genero": "hermafrodita",
+    "amoNombre": "Carito"
+  },
+  {
+    "id": 27,
+    "nombre": "Tuffy",
+    "tipo": "domestico",
+    "genero": "hermafrodita",
+    "amoNombre": "Rihana"
+  },
+  {
+    "id": 28,
+    "nombre": "Ben",
+    "tipo": "cautivo",
+    "genero": "hermafrodita",
+    "amoNombre": "Sonia"
+  },
+  {
+    "id": 29,
+    "nombre": "Gus",
+    "tipo": "salvaje",
+    "genero": "hembra",
+    "amoNombre": "Bella"
+  },
+  {
+    "id": 30,
+    "nombre": "Estefani",
+    "tipo": "salvaje",
+    "genero": "hembra",
+    "amoNombre": "Romeo"
+  }
+]
