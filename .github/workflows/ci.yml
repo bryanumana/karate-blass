@@ -1,0 +1,41 @@
+name: CI/CD API
+
+on:
+  workflow_dispatch:
+  push:
+
+jobs:
+  test:
+    name: Ejecutar Pruebas de API
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v6
+
+      - name: Configurar Java 21
+        uses: actions/setup-java@v5
+        with:
+          distribution: 'temurin'
+          java-version: '21'
+          cache: 'maven'
+
+      - name: Dar permisos de ejecución a todos los scripts
+        run: chmod +x ./mvnw ./run-suite.sh .github/scripts/*.sh
+
+      - name: Ejecutar pruebas
+        run: ./run-suite.sh
+
+      - name: Mostrar resumen en Summary de GitHub
+        if: always()
+        run: ./.github/scripts/generar_summary.sh
+
+      - name: Guardar reporte y logs
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: karate-report-and-logs
+          path: |
+            target/karate-reports/
+            target/karate.log
+          retention-days: 3
